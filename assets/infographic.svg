@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10233f"/><stop offset="1" stop-color="#1769aa"/></linearGradient></defs>
+<rect width="1600" height="1000" fill="#f3f7fb"/><rect width="1600" height="220" fill="url(#bg)"/>
+<text x="80" y="68" fill="#8de5eb" font-family="Arial,sans-serif" font-size="26" font-weight="bold" letter-spacing="4">TIN HỌC 11 · DIGITAL LEARNING LAB</text>
+<text x="80" y="135" fill="#fff" font-family="Arial,sans-serif" font-size="50" font-weight="bold">SƠ ĐỒ KẾT NỐI THIẾT BỊ SỐ</text>
+<text x="80" y="180" fill="#dceeff" font-family="Arial,sans-serif" font-size="24">Chọn đúng chuẩn kết nối · Kiểm tra nguồn · Xác nhận thiết bị được nhận diện</text>
+<g font-family="Arial,sans-serif" text-anchor="middle">
+<rect x="90" y="300" width="380" height="520" rx="28" fill="#fff" stroke="#cbd9e8" stroke-width="3"/>
+<text x="280" y="355" font-size="28" font-weight="bold" fill="#10233f">01 · USB</text>
+<rect x="160" y="400" width="240" height="130" rx="18" fill="#e6f5ff" stroke="#8bbfe5" stroke-width="3"/>
+<text x="280" y="480" font-size="66">💻</text><text x="280" y="560" font-size="22" fill="#334b68">Máy tính</text>
+<path d="M280 580 V635" stroke="#1769aa" stroke-width="6" stroke-linecap="round"/><path d="M265 620 L280 638 L295 620" fill="none" stroke="#1769aa" stroke-width="6"/>
+<rect x="175" y="650" width="210" height="58" rx="15" fill="#dff7f4" stroke="#2cb9c9" stroke-width="3"/><text x="280" y="688" font-size="23" font-weight="bold" fill="#115c67">USB → Máy ảnh</text>
+<text x="280" y="760" font-size="18" fill="#52677f">Cáp tương thích · Kiểm tra nhận diện</text>
+<rect x="610" y="300" width="380" height="520" rx="28" fill="#fff" stroke="#cbd9e8" stroke-width="3"/>
+<text x="800" y="355" font-size="28" font-weight="bold" fill="#10233f">02 · BLUETOOTH</text>
+<rect x="680" y="400" width="240" height="130" rx="18" fill="#e6f5ff" stroke="#8bbfe5" stroke-width="3"/>
+<text x="800" y="480" font-size="66">💻</text><text x="800" y="560" font-size="22" fill="#334b68">Máy tính</text>
+<path d="M800 580 V635" stroke="#1769aa" stroke-width="6" stroke-linecap="round"/><path d="M785 620 L800 638 L815 620" fill="none" stroke="#1769aa" stroke-width="6"/>
+<rect x="665" y="650" width="270" height="58" rx="15" fill="#f1e9ff" stroke="#a88de0" stroke-width="3"/><text x="800" y="688" font-size="23" font-weight="bold" fill="#5a369b">Bluetooth → Tai nghe</text>
+<text x="800" y="760" font-size="18" fill="#52677f">Bật ghép đôi · Chọn đúng tên thiết bị</text>
+<rect x="1130" y="300" width="380" height="520" rx="28" fill="#fff" stroke="#cbd9e8" stroke-width="3"/>
+<text x="1320" y="355" font-size="28" font-weight="bold" fill="#10233f">03 · HDMI</text>
+<rect x="1200" y="400" width="240" height="130" rx="18" fill="#e6f5ff" stroke="#8bbfe5" stroke-width="3"/>
+<text x="1320" y="480" font-size="66">💻</text><text x="1320" y="560" font-size="22" fill="#334b68">Máy tính</text>
+<path d="M1320 580 V635" stroke="#1769aa" stroke-width="6" stroke-linecap="round"/><path d="M1305 620 L1320 638 L1335 620" fill="none" stroke="#1769aa" stroke-width="6"/>
+<rect x="1180" y="650" width="280" height="58" rx="15" fill="#fff3d6" stroke="#e7bd59" stroke-width="3"/><text x="1320" y="688" font-size="23" font-weight="bold" fill="#815900">HDMI → Máy chiếu</text>
+<text x="1320" y="760" font-size="18" fill="#52677f">Chọn đúng nguồn Input / Source</text>
+</g>
+<rect x="90" y="865" width="1420" height="80" rx="18" fill="#e7f4f8" stroke="#b5dfe5" stroke-width="2"/>
+<text x="130" y="912" font-family="Arial,sans-serif" font-size="24" font-weight="bold" fill="#164c65">KHI CÓ LỖI:</text>
+<text x="340" y="912" font-family="Arial,sans-serif" font-size="23" fill="#164c65">Kiểm tra nguồn → Cáp/cổng → Chế độ ghép đôi/nguồn vào → Thiết lập hệ điều hành → Ghi nhận kết quả</text>
+</svg>
